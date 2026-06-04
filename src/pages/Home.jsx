@@ -391,7 +391,7 @@ const Home = () => {
                   </div>
                   <div>
                     <p className="text-secondary small mb-0 fw-semibold" style={{ fontSize: '0.8rem' }}>Location</p>
-                    <p className="mb-0 fw-bold" style={{ fontSize: '0.95rem' }}>Jauharabad, Pakistan</p>
+                    <p className="mb-0 fw-bold" style={{ fontSize: '0.95rem' }}>Gulberg 3 Lahore, Pakistan</p>
                   </div>
                 </div>
               </div>
