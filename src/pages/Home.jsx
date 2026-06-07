@@ -17,8 +17,8 @@ const MOCK_PROJECTS = [
     description: "🚀 Built an AI-Powered Quiz System using the MERN stack that generates MCQs instantly with AI, features a modern responsive UI, real-time scoring, secure authentication, and optimized backend performance.",
     tags: ["MongoDB", "Express.js", "React.js", "Node.js", "Gemini AI"],
     featured: true,
-    githubLink: "https://github.com",
-    liveLink: "https://demo.com"
+    githubLink: "https://github.com/Shaheer884/AI_Quiz_System_Frontend",
+    liveLink: "https://ai-quiz-system-frontend.vercel.app/register"
   },
   {
     _id: 'mock2',
